@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vedanti
 ===============================================================================================================================
 
-<h3 align="center">I'm an Engineer who loves diving into real-world projects, especially those involving innovative technologies and robust software design. With a strong foundation in C++, Python, and Data Structures and Algorithms, Machine Learning, I enjoy exploring the intersection of technology and creativity.</h3>
-
+I'm an Engineer who loves diving into real-world projects, especially those involving innovative technologies and robust software design. With a strong foundation in C++, Python, and Data Structures and Algorithms, Machine Learning, I enjoy exploring the intersection of technology and creativity.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedanti0404&label=Profile%20views&color=0e75b6&style=flat" alt="vedanti0404" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vedanti_k01" target="blank"><img src="https://img.shields.io/twitter/follow/vedanti_k01?logo=twitter&style=for-the-badge" alt="vedanti_k01" /></a> </p>
