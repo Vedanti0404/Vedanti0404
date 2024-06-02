@@ -4,15 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm an Engineer who loves diving into real-world projects, especially those involving innovative technologies and robust software design. With a strong foundation in C++, Python, and Data Structures and Algorithms, Machine Learning, I enjoy exploring the intersection of technology and creativity.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedanti0404&label=Profile%20views&color=0e75b6&style=flat" alt="vedanti0404" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vedanti_k01" target="blank"><img src="https://img.shields.io/twitter/follow/vedanti_k01?logo=twitter&style=for-the-badge" alt="vedanti_k01" /></a> </p>
-
-- 👯 I’m looking to collaborate on [GitHub | LinkedIn](https://github.com/Vedanti0404 | https://www.linkedin.com/in/vedanti-koyande-baab01229/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/Vedanti0404](https://github.com/Vedanti0404)
-
-- 📝 I regularly write articles on [https://medium.com/@vedantikoyande](https://medium.com/@vedantikoyande)
-
-- 📫 How to reach me **vedantikoyande@gmail.com**
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [Link](http://https://personal-portfoilio.vercel.app/)
+* ✉️  You can contact me at [vedantikoyande@gmail.com](mailto:vedantikoyande@gmail.com)
+* 🤝  I'm open to collaborating on GitHub | LinkedIn
+* ⚡  Technical blogger @ https://medium.com/@vedantikoyande
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
