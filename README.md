@@ -8,7 +8,7 @@ I'm an Engineer who loves diving into real-world projects, especially those invo
 * 🖥️  See my portfolio at [Link](http://https://personal-portfoilio.vercel.app/)
 * ✉️  You can contact me at [vedantikoyande@gmail.com](mailto:vedantikoyande@gmail.com)
 * 🤝  I'm open to collaborating on GitHub | LinkedIn
-* ⚡  Technical blogger @ https://medium.com/@vedantikoyande
+* ⚡  Technical blogger [medium](https://medium.com/@vedantikoyande)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,8 +30,6 @@ I'm an Engineer who loves diving into real-world projects, especially those invo
 <a href="http://www.github.com/Vedanti0404"><img src="https://github-readme-stats.vercel.app/api?username=Vedanti0404&show_icons=true&hide=stars,prs,issues,&count_private=true&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="Vedanti0404's GitHub stats" /></a>
 
 <a href="http://www.github.com/Vedanti0404"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedanti0404&stroke=ffffff&background=0f172a&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Vedanti0404"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Vedanti0404&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Vedanti0404" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedanti0404&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
