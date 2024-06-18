@@ -5,7 +5,7 @@ I'm an Engineer who loves diving into real-world projects, especially those invo
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedanti0404&label=Profile%20views&color=0e75b6&style=flat" alt="vedanti0404" /> </p>
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Link](http://https://personal-portfoilio.vercel.app/)
+* 🖥️  See my portfolio at [Link](https://personal-portfolio-2-three.vercel.app/)
 * ✉️  You can contact me at [vedantikoyande@gmail.com](mailto:vedantikoyande@gmail.com)
 * 🤝  I'm open to collaborating on GitHub | LinkedIn
 * ⚡  Technical blogger [medium](https://medium.com/@vedantikoyande)
