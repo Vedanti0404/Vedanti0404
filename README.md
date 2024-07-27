@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm an Engineer who loves diving into real-world projects, especially those involving innovative technologies and robust software design. With a strong foundation in C++, Python, and Data Structures and Algorithms, Machine Learning, I enjoy exploring the intersection of technology and creativity.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedanti0404&label=Profile%20views&color=0e75b6&style=flat" alt="vedanti0404" /> </p>
- 
+  
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Link](https://personal-portfolio-2-three.vercel.app/)
 * ✉️  You can contact me at [vedantikoyande@gmail.com](mailto:vedantikoyande@gmail.com)
