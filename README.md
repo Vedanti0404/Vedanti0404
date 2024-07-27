@@ -9,7 +9,7 @@ I'm an Engineer who loves diving into real-world projects, especially those invo
 * ✉️  You can contact me at [vedantikoyande@gmail.com](mailto:vedantikoyande@gmail.com)
 * 🤝  I'm open to collaborating on GitHub | LinkedIn
 * ⚡  Technical blogger [medium](https://medium.com/@vedantikoyande)
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vedanti_k01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedanti_k01" height="30" width="40" /></a>
