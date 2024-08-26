@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vedanti                  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vedanti                   
 ===============================================================================================================================                      
  
 I'm an Engineer who loves diving into real-world projects, especially those involving innovative technologies and robust software design. With a strong foundation in C++, Python, and Data Structures and Algorithms, Machine Learning, I enjoy exploring the intersection of technology and creativity.
